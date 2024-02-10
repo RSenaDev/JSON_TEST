@@ -1,0 +1,10 @@
+{
+    "nome" : "Ryan",
+    "idade" : 21,
+    "Esta trabalhando?" : true,
+    "hobbies" : ["Cagar", "Comer", "Dormir"],
+    "Detalhes-Profissão" : {
+        "Cargo" :"Pladur",
+        "Empresa" : "PLaco"
+    }
+}
